@@ -41,6 +41,18 @@ div {
   display: block;
 }
 
+.bot_img {
+  padding: 1%;
+  width: 30%;
+  height: auto;
+}
+
+.center-images {
+  text-align: center;
+  margin: auto;
+  display: block;
+}
+
 body {
   background-image: url("../img/hakuba_mtns.jpg");
   background-repeat: no-repeat;
