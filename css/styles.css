@@ -3,6 +3,14 @@
   padding: 10px;
 }
 
+.blockquote {
+  float: left;
+}
+
+.blockquote-footer {
+  margin-bottom: 10px;
+}
+
 img {
   width: 24%;
   height: auto;
@@ -17,6 +25,18 @@ div {
   width: 18rem;
 }
 
+#official-card {
+  margin: auto;
+  width: 60%;
+
+}
+
+.col-9 {
+  padding-left: 35px;
+}
+
 body {
-  background-color: rgb(255, 245, 245);
+  background-image: url("../img/hakuba_green.jpg");
+  background-repeat: no-repeat;
+  background-size: cover;
 }
