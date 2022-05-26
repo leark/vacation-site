@@ -1,0 +1,22 @@
+#sales-pitch {
+  font-size: larger;
+  padding: 10px;
+}
+
+img {
+  width: 24%;
+  height: auto;
+}
+
+div {
+  padding: 10px;
+  margin-bottom: 30px;
+}
+
+.card {
+  width: 18rem;
+}
+
+body {
+  background-color: rgb(255, 245, 245);
+}
